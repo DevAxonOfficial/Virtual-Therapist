@@ -7,6 +7,7 @@ export const PROMPS_DOCTORS = [
     image: "/img/Dr. Tony Titan.png",
     alt: "Dr. Tony Titan",
     index: "2",
+    image2: "/img/Dr. Tony Titan Mobile.png",
   },
   {
     name: "Dr.Elsa Evergreen",
@@ -16,6 +17,7 @@ export const PROMPS_DOCTORS = [
     image: "/img/Dr. Elsa Evergreen.png",
     alt: "Dr. Elsa Evergreen",
     index: "1",
+    image2: "/img/Dr. Elsa Evergreen Mobile.png",
   },
   {
     name: "Dr. Hermoine Hope",
@@ -25,6 +27,7 @@ export const PROMPS_DOCTORS = [
     image: "/img/Dr. Hermoine Hope.png",
     alt: "Dr. Hermoine Hope",
     index: "2",
+    image2: "/img/Dr. Hermoine Hope Mobile.png",
   },
   {
     name: "Dr. Piky Peace",
@@ -34,5 +37,6 @@ export const PROMPS_DOCTORS = [
     image: "/img/Dr. Piky Peace.png",
     alt: "Dr. Piky Peace",
     index: "1",
+    image2: "/img/Dr. Piky Peace Mobile.png",
   },
 ];
