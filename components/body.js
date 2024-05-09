@@ -1,7 +1,7 @@
 import React from "react";
-import Doctors from "./doctorsCard";
 import { PROMPS_DOCTORS } from "../utils/constants";
 import { HiChevronDoubleRight } from "react-icons/hi";
+import Doctors from "./doctorsCard";
 
 const Body = () => {
   return (
